@@ -24,6 +24,10 @@ It provides a clean HTML/CSS interface for file management and a Python backend 
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 ## 📦 Installation
 
 Clone the repository:
@@ -33,7 +37,5 @@ git clone https://github.com/vanna2017code/SFHTMLPython.git
 cd SFHTMLPython
 
 
-## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
